@@ -1,2 +1,2 @@
-# magic-spell-creator
-magic-spell-creator 
+# magic-fps-game
+magic-fps-game
